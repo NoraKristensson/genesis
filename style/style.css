@@ -1,0 +1,27 @@
+body {
+  width: 1360px;
+  height: 2068px;
+  font-family: "Muli", sans-serif;
+  color: black;
+  background: #ffffff;
+  margin: 0;
+  padding-left: 126px;
+  padding-right: 124px;
+}
+
+li {
+  list-style: none;
+}
+
+header {
+  display: flex;
+  border: orangered 1px solid;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  border: green 1px solid;
+  justify-content: space-between;
+  padding: 0;
+}
